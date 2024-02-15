@@ -49,11 +49,8 @@ DC-1 SERVER
 
 
 <h2>Deployment and Configuration Steps</h2>
+![azure-home](https://github.com/AndrewBugembe/configure-azure-ad/assets/129638683/8d0f460c-02a3-4308-9608-1eb843feeb0b)
 
-<p>
-![azure-home](https://github.com/AndrewBugembe/configure-azure-ad/assets/129638683/282018ad-1985-43d6-aadb-3779b6d6de54)
-
-</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
