@@ -36,11 +36,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 9)	Install Active Directory Domain Services
 10)	Add a forest. (mycompany.com)
 11)	Create new admin user to use to sign into the client-1(mycompany.com\john_t)
+
 CLIENT-1 SERVER:
 •	Log into client-1 using new admin (mycompany.com\john_t))
 •	Add client to DC-1 (domain controller) and restart the server.
 •	Enable remote desktop access for other domain users.
 •	Restart and sign in using the new domain admin user or new domain users created in Active directory.
+
 DC-1 SERVER
 •	Add new ORGANIZATIONAL UNITS, add permissions.
 •	Add new user that can log into client-1
