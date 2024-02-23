@@ -3,7 +3,17 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
+
+Pros:
+- Streamline user management with Azure’s easy-to-use interface, making it easier than ever to handle permissions, roles, and security policies.
+- With Active Directory in the cloud, your team can securely access necessary resources from any location, fostering collaboration and productivity.
+- Azure’s infrastructure allows you to scale your Active Directory environment on-demand, accommodating business growth without the need for physical hardware investments.
+
+What I learned:
+- Hands-on experience with Azure, understanding how to set up and manage virtual machines.
+- Familiarity with the azure interface that is easy-to-use with regards to creating resources
+<br />
 
 
 <h2>Video Demonstration</h2>
